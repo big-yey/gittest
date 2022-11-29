@@ -12,6 +12,8 @@ public class GitTest {
 
         System.out.println("hello git hot-fix22222222222");
         System.out.println("hahahhah");
+        System.out.println("git在线更改");
+        System.out.println("我在远程操作");
 
     }
 }
